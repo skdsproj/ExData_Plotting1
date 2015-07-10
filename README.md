@@ -1,3 +1,10 @@
+## Notes for the reviewer
+
+In order for the scripts to run and produce the appropriate results, please
+place the input file "household_power_consumption.txt" in your working
+directory. Also, the scripts use the sqldf package. So, please install
+the sqldf package in case you do not have it already. 
+
 ## Introduction
 
 This assignment uses data from
